@@ -29,14 +29,14 @@ def embed_query(query):
 
 def get_answer_from_gemini(question, context_docs):
     """Sends question + context to Gemini to get an answer."""
-    # Using the default model to ensure compatibility with your environment
-    model = genai.GenerativeModel('gemini-pro')
+    # Using 'gemini-pro' as a stable model.
+    model = genai.GenerativeModel()
 
     # Construct the prompt
     prompt = f"""
     You are a helpful assistant. Use the following documents to answer the user's question.
     If the answer is not in the documents, say "I couldn't find the answer in the provided documents."
-
+    You are also able to handle basic conversations.
     Documents:
     {chr(10).join(context_docs)}
 

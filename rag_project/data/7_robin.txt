@@ -63,14 +63,7 @@
   },
   "background": {
     "early_life": "Childhood in Ohara; learned forbidden archaeology, sole survivor of its destruction.",
-    "joining_crew": "Former Baroque Works VP; joined crew after Enies Lobby rescue; now committed to Luffy's ideals."
+    "joining_crew": "Former Baroque Works Vice President; joined crew after Enies Lobby rescue; now committed to Luffy's ideals."
   },
-  "goal": "Uncover the true history of the world and Poneglyphs leading to the Void Century; find the Rio Poneglyph.",
-  "sources": [
-    "Wikipedia — Nico Robin",
-    "One Piece Fandom — Nico Robin Abilities and Powers",
-    "Son of the Sea Wiki — Nico Robin Abilities",
-    "Gamerant — Nico Robin strongest attacks",
-    "Wikipedia — debut and world info"
-  ]
+  "goal": "Uncover the true history of the world and Poneglyphs leading to the Void Century; find the Rio Poneglyph."
 }

@@ -24,13 +24,19 @@ class ChromaDBHandler:
             ids=ids
         )
         print(f"Added {len(documents)} documents to the collection.")
-        # Make sure to persist changes to disk
-        self.client.persist()
+        # Removed the self.client.persist() call as it's deprecated
+        # and not needed with a PersistentClient in the latest versions.
 
     def search_documents(self, query_embedding, n_results=5):
         """Searches for relevant documents using a query embedding."""
-        results = self.collection.query(
-            query_embeddings=query_embedding,
-            n_results=n_results
-        )
-        return results['documents'][0]
+        try:
+            print(f"Searching ChromaDB with n_results={n_results}...")
+            results = self.collection.query(
+                query_embeddings=query_embedding,
+                n_results=n_results
+            )
+            print(f"Found {len(results.get('documents', [[]])[0])} relevant documents.")
+            return results['documents'][0]
+        except Exception as e:
+            print(f"Error during ChromaDB search: {e}")
+            raise e
