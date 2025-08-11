@@ -1,0 +1,73 @@
+Jinbe – Helmsman, Knight of the Sea
+Jinbe is the calm and honorable helmsman of the Straw Hats, a former Warlord of the Sea and master of Fish-Man Karate. His fighting style uses water manipulation and raw physical strength to overwhelm opponents, whether on land or underwater. Jinbe’s wisdom and experience make him the crew’s voice of reason, and his loyalty to Luffy stems from deep respect for the captain’s ideals. Fun fact: Jinbe can steer the Thousand Sunny through even the most treacherous currents with precision unmatched by any sailor. His dream is tied to Luffy’s—helping create a world where humans and fish-men live in harmony.
+
+{
+  "name": "Jinbe",
+  "aliases": ["Knight of the Sea", "First Son of the Sea", "Boss Jinbe"],
+  "role": "Helmsman and Senior Officer of the Straw Hat Pirates",
+  "origin": "Ryugu Kingdom, Fish-Man Island",
+  "creator": "Eiichiro Oda",
+  "debut": {
+    "manga_chapter": 528,
+    "anime_episode": 430
+  },
+  "age": {
+    "debut": 44,
+    "post_timeskip": 46
+  },
+  "birthday": "April 2",
+  "physical": {
+    "height_cm": 301,
+    "blood_type": "F"
+  },
+  "affiliations": [
+    "Straw Hat Pirates",
+    "Straw Hat Grand Fleet",
+    "Sun Pirates (former)",
+    "Former Warlord of the Sea",
+    "Big Mom Pirates (former)",
+    "Ryugu Kingdom Royal Guard (former)",
+    "Impel Down Prisoner (former)"
+  ],
+  "bounty": {
+    "history": [76_000_000, 250_000_000],
+    "current": 438_000_000
+  },
+  "abilities": {
+    "martial_art": "Master of Fish-Man Karate and Fish-Man Jujutsu",
+    "haki": ["Armament Haki", "Observation Haki"],
+    "helmmanship": "Exceptional; can maneuver ships like extensions of his body, even through extreme conditions",
+    "ocean_knowledge": "Deep knowledge of sea currents and marine life",
+    "willpower": "Resilient and deeply principled—resists Soul Pocus and overcomes emotional burdens"
+  },
+  "signature_techniques": [
+    "Mizugokoro (Water Heart)",
+    "Kairyu Ipponzeoi (Sea Current Shoulder Throw) + Tea variation",
+    "Karakusagawara Seiken (Arabesque Tile True Punch)",
+    "Gosenmaigawara Seiken (Five Thousand Tile True Punch)",
+    "Samegawara Seiken (Shark Tile True Fist)",
+    "Uchimizu (Water Shot)",
+    "Yarinami (Spear Wave) + Murasame variation",
+    "Samehada Shotei (Sharkskin Palm Block)",
+    "Gyojin Karate Ougi: Buraikan (Ultimate Water Shockwave)"
+  ],
+  "notable_feats": [
+    "Fought on par with Portgas D. Ace pre-timeskip",
+    "Blocked Akainu’s magma fist and protected Luffy",
+    "Controlled the Thousand Sunny through Big Mom’s wave with unmatched precision",
+    "Executed ethical leadership—resigned as Warlord to protect people",
+    "Served as the crew’s strategic anchor and protector"
+  ],
+  "personality": {
+    "traits": ["honorable", "calm", "loyal", "selfless", "strategic"],
+    "values": ["peace between humans and fish-men", "protecting fellow crew and freedom"]
+  },
+  "background": {
+    "history": "Second captain of the Sun Pirates; former Shichibukai; key figure in Fish-Man Island governance and Straw Hat alliance"
+  }
+}
+
+Fish-Man Karate mastery including advanced moves like Buraikan, Kairyu Ipponzeoi, Arabesque Tile Punch, Spears Wave, etc.
+Helmsman skills: Jinbe can pilot ships through impossibly rough seas—including surfing Big Mom’s wave in the "Green Room".
+Physical might & endurance: He fought Ace to a standstill, withstood magma attacks, and supported the crew through extreme environments.
+Personality and ethics: Known for selflessness, steadfast loyalty, and unshakeable moral code.

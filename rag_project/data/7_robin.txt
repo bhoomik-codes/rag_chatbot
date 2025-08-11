@@ -1,0 +1,76 @@
+{
+  "name": "Nico Robin",
+  "aliases": ["Devil Child", "Miss All Sunday", "Light of the Revolution"],
+  "role": "Archaeologist of the Straw Hat Pirates; Senior Officer",
+  "origin": "West Blue (Ohara Island)",
+  "creator": "Eiichiro Oda",
+  "debut": {
+    "manga_chapter": 114,
+    "anime_episode": 67,
+    "publication_date": "November 22, 1999"
+  },
+  "age": {
+    "debut": 28,
+    "post_timeskip": 30
+  },
+  "birthday": "February 6",
+  "physical": {
+    "height_cm": 188,
+    "blood_type": "S",
+    "distinct_features": ["Sophisticated, calm demeanor", "Dark hair and intelligent eyes"]
+  },
+  "affiliations": ["Straw Hat Pirates", "Straw Hat Grand Fleet", "Baroque Works (former)", "Ohara Archaeologists (former)", "Revolutionary Army (former)"],
+  "bounty": {
+    "history": [79_000_000, 80_000_000, 130_000_000],
+    "current": 930_000_000
+  },
+  "devil_fruit": {
+    "name": "Hana Hana no Mi (Flower-Flower Fruit)",
+    "type": "Paramecia",
+    "abilities": "Can sprout duplicate body parts (including limbs, eyes, ears, full body) from any surface, including opponents and inanimate objects; control is precise and versatile."
+  },
+  "powers_and_abilities": {
+    "sprouting_limbs": "Unlimited duplicates within range; pain is felt when extended limbs are injured",
+    "physical_traits": "Exceptional agility, stamina, recovery, and resilience—even when injured, can fight effectively",
+    "fish_man_karate": "Incorporates palm-strike techniques post-timeskip for added power",
+    "archaeology": "Only known person to read Poneglyphs; deep knowledge of Void Century"
+  },
+  "signature_techniques": [
+    "Clutch / Double Clutch",
+    "Gigantesco Mano",
+    "Cuatro Mano",
+    "Butterfly Orchid",
+    "Cuerpo Fleur",
+    "Demonio Fleur (giant demonic form)"
+  ],
+  "technique_details": {
+  "Dos Fleur": "Sprouts two extra arms for quick tasks or light combat; often used for precision or surprise grabs.",
+  "Tres Fleur": "Sprouts three arms; can be used for rapid manipulation or small restraining maneuvers.",
+  "Seis Fleur": "Sprouts six arms for coordinated attacks, grapples, or multitasking; first used in Skypiea. 'Seis' means six in Spanish.",
+  "Veinte Fleur": "Sprouts twenty arms for larger restraining actions; pre-timeskip staple in group control.",
+  "Cien Fleur": "Sprouts 100 arms; used to completely restrain or overwhelm multiple opponents.",
+  "Clutch": "Signature finisher; sprouted arms grab an opponent's limbs and neck, breaking their back with precision force.",
+  "Double Clutch": "Creates clone with extra arms to grab head and legs, breaking spine with more leverage.",
+  "Butterfly Orchid": "Hundreds of hands reflect or redirect projectiles; used to protect allies.",
+  "Cuatro Mano": "Forty arms form four giant hands to restrain powerful opponents.",
+  "Gigantesco Mano": "Huge limbs sprout to stomp or clear areas; developed post-timeskip.",
+  "Demonio Fleur": "Giant demonic clone with wings and horns; immensely destructive—used vs. Black Maria.",
+  "Fish-Man Karate: Giganteum": "Giant arm palm-strike imbued with Fish-Man Karate shockwave."
+},
+  "personality": {
+    "traits": ["calm", "intelligent", "enigmatic", "loyal", "morbid humor"],
+    "values": ["revealing truth", "protecting friends", "preserving history"]
+  },
+  "background": {
+    "early_life": "Childhood in Ohara; learned forbidden archaeology, sole survivor of its destruction.",
+    "joining_crew": "Former Baroque Works VP; joined crew after Enies Lobby rescue; now committed to Luffy's ideals."
+  },
+  "goal": "Uncover the true history of the world and Poneglyphs leading to the Void Century; find the Rio Poneglyph.",
+  "sources": [
+    "Wikipedia — Nico Robin",
+    "One Piece Fandom — Nico Robin Abilities and Powers",
+    "Son of the Sea Wiki — Nico Robin Abilities",
+    "Gamerant — Nico Robin strongest attacks",
+    "Wikipedia — debut and world info"
+  ]
+}

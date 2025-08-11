@@ -1,0 +1,75 @@
+Brook – Musician, Soul King of the Seas
+Brook is the gentlemanly skeleton musician of the crew, brought back to life by the Yomi Yomi no Mi after his death. Tall and lanky, with an afro that survived death itself, Brook fights using a rapier and music-based techniques, mixing swordsmanship with his unique ability to leave his soul and move independently from his body. His ice-based attacks, learned after the time skip, allow him to freeze opponents with the chill of the underworld. Fun fact: Brook’s lighthearted requests to see ladies’ underwear are as much comic relief as they are remnants of his goofy personality before death. His dream is to reunite with Laboon, the whale he promised to see again decades ago.
+
+{
+  "name": "Brook",
+  "aliases": ["Gentleman Skeleton", "Soul King", "Humming Swordsman"],
+  "role": "Musician and Swordsman of the Straw Hat Pirates; Senior Officer",
+  "origin": "West Blue (Florian Triangle)",
+  "creator": "Eiichiro Oda",
+  "debut": {
+    "manga_chapter": 442,
+    "anime_episode": 337,
+    "publication_year": 2005
+  },
+  "age": {
+    "human": 38,
+    "pre_timeskip": 88,
+    "post_timeskip": 90
+  },
+  "birthday": "April 3",
+  "physical": {
+    "height_cm": {
+      "pre_timeskip": 266,
+      "post_timeskip": 277
+    },
+    "distinct_features": ["Skeleton body with afro", "No flesh—immune to heat, electricity"]
+  },
+  "affiliations": ["Straw Hat Pirates", "Straw Hat Grand Fleet", "Rumbar Pirates (former)"],
+  "bounty": {
+    "current": 383_000_000
+  },
+  "personality": {
+    "traits": ["cheerful", "perverted", "loyal", "musically gifted"],
+    "values": ["reuniting with Laboon", "entertaining crew", "protecting friends"]
+  },
+  "catchphrase": "Pantsu Misete moratte mo yorishi desuyo ka ? (Could I see your panties ?)"
+  "devil_fruit": {
+    "name": "Yomi Yomi no Mi (Revive-Revive Fruit)",
+    "type": "Paramecia",
+    "abilities": [
+      "Resurrection once upon death",
+      "Astral Projection (soul detachment)",
+      "Soul Infusion—freezing attacks",
+      "Soul Scream—knocks out weaker opponents",
+      "Immortality and invulnerability of skeleton body",
+      "Bone regeneration (often via milk humorously)"
+    ]
+  },
+  "abilities": {
+    "swordsmanship": "Fencing/Iaidō style using Soul Solid cane-sword (blinding speed)",
+    "mobility": "Extremely agile; can run on water; lightweight skeletal frame",
+    "musical powers": "Hypnotism, inducing sleep or illusions via music"
+  },
+  "signature_techniques": {
+    "Hanauta Sancho: Yahazu Giri": "Ultra-fast slash; foes don’t notice until after stepping",
+    "Kasuri Uta: Fubuki Giri": "Freezes wound area; silent approach then lethal strike",
+    "Party Music: Quinte Tierce Fantasia": "Music distraction + Iai strike",
+    "Phrase d’Armes: Orchestra": "Slash in G-clef shape freezing the target",
+    "Soul Parade / Ice Burn (Eisbahn)": "Freezes ground or attacks defensively",
+    "Swallow Banderole": "Swift vertical slash with freezing effect",
+    "Quinte Tierce Fantasia": "Freezing Iai strike after music distraction"
+  },
+  "notable_feats": [
+    "Resisted Big Mom's Haoshoku Haki",
+    "Purified zombies and destroyed Big Mom’s portrait",
+    "Carried Luffy to the crow’s nest with ease",
+    "Survived falling debris and electric shocks; healed via milk"
+  ]
+}
+
+Reality of resurrection: Brook gained soul-based powers post-death via the Yomi Yomi no Mi, reviving into a skeletal form and growing afterward.
+Enhanced post-timeskip abilities: Includes astral projection, soul-infused freezing attacks, and Soul Scream.
+Signature sword techniques: Hanauta Sancho: Yahazu Giri, Kasuri Uta: Fubuki Giri, Phrase d’Armes: Orchestra, Swallow Banderole / Soul Parade, with original Japanese names and effects.
+Physical agility & humor traits: Brook's bone regeneration with milk, water-running, and immunity to electrical/heat-based damage highlighted by fans.
+Feats & comedy: From resisting Big Mom’s Haki, playing haunting music, to carrying Luffy—Brook’s performance-wielding combat and comedic flair shine.

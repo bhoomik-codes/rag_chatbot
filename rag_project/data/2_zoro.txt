@@ -1,0 +1,101 @@
+{
+  "name": "Roronoa Zoro",
+  "aliases": ["Pirate Hunter Zoro", "Zoro-juurou"],
+  "role": "First Mate / Swordsman of the Straw Hat Pirates",
+  "origin": "East Blue",
+  "creator": "Eiichiro Oda",
+  "debut": {
+    "manga_chapter": 3,
+    "anime_episode": 1,
+    "publication_date": "August 4, 1997"
+  },
+  "family": {
+    "father": "Roronoa Arashi",
+    "mother": "Tera",
+    "grandfather": "Roronoa Pinzoro",
+    "grandmother": "Shimotsuki Furiko",
+    "great_uncle": "Shimotsuki Ushimaru",
+    "ancestor": "Shimotsuki Ryuma"
+  },
+  "age": {
+    "debut": 19,
+    "post_timeskip": 21
+  },
+  "birthday": "November 11",
+  "physical": {
+    "height_cm": {
+      "debut": 178,
+      "post_timeskip": 181
+    },
+    "blood_type": "XF",
+    "eye_color": "Black",
+    "hair_color": "Green",
+    "scars": ["Scar across eye"],
+    "attire": ["White shirt", "Black pants", "Green haramaki sash", "Black bandanna (battle)"]
+  },
+  "affiliations": ["Straw Hat Pirates", "Worst Generation", "Straw Hat Grand Fleet"],
+  "bounty": {
+    "current": 1_111_000_000,
+    "history": [60_000_000, 120_000_000, 320_000_000]
+  },
+  "occupation": ["Swordsman", "Pirate", "Former Bounty Hunter"],
+  "personality": {
+    "traits": ["serious", "loyal", "determined", "stern", "impulsive", "bad sense of direction"],
+    "values": ["honor", "strength", "loyalty to Luffy"]
+  },
+  "abilities": {
+    "swordsmanship": "Master of Santoryu (Three-Sword Style)",
+    "haki": ["Armament Haki (blade coating)", "Observation Haki", "Advanced Conqueror’s Haki (blade coating)"],
+    "stamina": "Extremely high—heavy drinking tolerance and exceptional endurance"
+  },
+  "notable_equipment": ["Wado Ichimonji", "Enma", "Sandai Kitetsu"],
+  "signature_moves": {
+  "three_sword_style": [
+    {"name": "Oni Giri (Demon Slash)", "description": "Crosses two swords against chest and slashes with the mouth sword."},
+    {"name": "Tora Gari (Tiger Hunt/Tiger Trap)", "description": "Swings all three swords forward; aura of a tiger appears."},
+    {"name": "Santōryū Ōgi: Sanzen Sekai (Three Thousand Worlds)", "description": "Spins swords while running, then slashes with all three blades at once."},
+    {"name": "Bleeding the Wolf (Streaming Wolf Swords)", "description": "Blocks with two swords while cutting with the third."},
+    {"name": "Tatsumaki (Dragon Twister)", "description": "Spins with swords to create a tornado-like slashing wind."},
+    {"name": "Purgatory Oni Giri", "description": "Upgraded Oni Giri with Haki and enhanced power."},
+    {"name": "Ultra Tiger Hunt", "description": "Stronger version of Tiger Hunt after timeskip."},
+    {"name": "Three Sword Serpent: 103 Mercies Dragon Damnation", "description": "Ultimate Wano-era move: 103 precise slashes forming a three-headed dragon."},
+    {"name": "Billion-fold World (Trichiliocosm)", "description": "Rapid barrage of slashes in the air against Pica."},
+    {"name": "Asura: Blade Drawn Dead Man’s Game", "description": "Haki-imbued Ashura attack used against Kaido."}
+  ],
+  "single_sword_style": [
+    {"name": "Ittōryū Iai: Shi Shishi Sonson (Death-Lion's Song)", "description": "Quick draw slashing maneuver—instant decapitation."},
+    {"name": "Daishinkan (Great Dragon Shock)", "description": "Two-handed overhead swing producing a shockwave."},
+    {"name": "Baki (Demon Horse)", "description": "Powerful vertical slice capable of cutting stone."}
+  ],
+  "two_sword_style": [
+    {"name": "Two Sword Style: Toro Samon", "description": "Diagonal aerial slash combining multiple prior techniques."}
+  ],
+  "others": [
+    {"name": "360 Pound Cannon (Sanbyakurokuju Pondo Ho)", "description": "Enhanced 36 Pound Cannon attack using all three swords."},
+    {"name": "Burning Demon Slash", "description": "Onigiri variant with flaming blades."},
+    {"name": "Crab Grab (Gazami Dori)", "description": "Guillotine-like clamp of all three swords."},
+    {"name": "Bull Horns (Ushi Bari)", "description": "Running multi-hit thrust attack with two swords."},
+    {"name": "Raven Hunt (Karasuma Gari)", "description": "Flying multiple-slashed attack that cuts steel."}
+  ]
+},
+  "background": {
+    "training": "Trained in a dojo; developed Santoryu after rival Kuina’s death (promise to become world's greatest swordsman)",
+    "meeting_luffy": "Rescued by Luffy and became first crew member",
+    "character_development": "Pledged loyalty to Luffy after loss to Dracule Mihawk"
+  },
+  "quotes": ["“I don’t pray to any gods. I believe in myself... and only one man above me.”", "“Nothing... Happened ”"]
+}
+
+Zoro debuted in Chapter 3 / Episode 1 (August 4, 1997).
+
+His role includes being Luffy’s second-in-command (First Mate/Swordsman) and a prominent member of the Worst Generation.
+
+Family Lineage confirmed: descended from the Shimotsuki family of Wano and related to Ryuma.
+
+Bounties progression: 60M → 120M → 320M → 1,111M Berries.
+
+Physical stats: Height post-timeskip is 181 cm, age is 21.
+
+Personality traits: renowned for his bad sense of direction, loyalty, and martial discipline.
+
+Haki abilities: proficient in all three types, including advanced Conqueror’s Haki used to coat his swords.

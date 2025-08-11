@@ -1,0 +1,78 @@
+{
+  "name": "Usopp",
+  "aliases": ["Sogeking", "Sniper King", "God Usopp", "Long Nose"],
+  "role": "Sniper of the Straw Hat Pirates; Senior Officer",
+  "origin": "Syrup Village, East Blue",
+  "creator": "Eiichiro Oda",
+  "debut": {
+    "manga_chapter": 23,
+    "anime_episode": 8,
+    "publication_date": "January 12, 1998"
+  },
+  "age": {
+    "debut": 17,
+    "post_timeskip": 19
+  },
+  "birthday": "April 1 (April Fool’s Day)",
+  "physical": {
+    "height_cm": {
+      "debut": 174,
+      "post_timeskip": 176
+    },
+    "distinct_features": ["Long nose"],
+    "attire": ["Sniper goggles", "Coveralls", "Kerchief", "Cap (varies)"]
+  },
+  "affiliations": ["Straw Hat Pirates", "Straw Hat Grand Fleet", "Usopp Pirates (former)"],
+  "bounty": {
+    "history": [30_000_000, 200_000_000, 500_000_000],
+    "current": 500_000_000
+  },
+  "personality": {
+    "traits": ["cowardly", "creative", "loyal", "sentimental", "humorous"],
+    "dream": "Become a brave warrior of the sea like his father, Yasopp"
+  },
+  "abilities": {
+    "marksmanship": "Exceptional sniper with variety of ammo (explosive, flame, smoke, etc.)",
+    "strategic_trickery": "Uses deception, traps, trick ammo, and psychological tactics",
+    "crafting": "Inventor of weapons such as Kabuto and Clima-Tacts and various gadgets",
+    "haki": "Awakened Observation Haki (perceives aura and future movement)"
+  },
+  "weaponry_and_gadgets": {
+    "slingshot": ["Kabuto", "Kuro Kabuto"],
+    "ammunition": [
+      "Hissatsu Kayaku Boshi (Exploding Star)",
+      "Atlas Suisei",
+      "Kaen Boshi (Fire Star)",
+      "Hissatsu Fire Bird Star"
+    ],
+    "pop_greens": [
+      "Skull Exploding Grass",
+      "Impact Wolf",
+      "Trampolia",
+      "Humandrake",
+      "Rafflesia",
+      "Boaty Banana / Fan Grass"
+    ],
+    "hammers": ["Usopp Hammer", "5-Ton Hammer (fake)", "10-Ton Hammer (inflatable)"],
+    "dials": ["Impact Dial", "Flash Dial", "Breath Dial"],
+    "tools": ["Caltrops", "Rubber Band", "Octoshoes", "Belt Hook"]
+  },
+  "tactics_style": "Usopp Tactics—combines weapons, traps, deception, and witty lies to outsmart opponents",
+  "other_skills": ["Arachnology", "Hairdressing", "Gardening", "Psychological manipulation"],
+  "notable_contributions": [
+    "Created Clima-Tacts for Nami",
+    "Drew the Straw Hat Jolly Roger",
+    "Temporarily repaired the Going Merry",
+    "Produced specialized tools and masks post-timeskip"
+  ],
+  "notable_contexts": [
+    "Adopted Sogeking persona at Enies Lobby",
+    "Psychologically incapacitated Sugar in Dressrosa with Haki-enhanced shot",
+    "Used traps and Pop Greens strategically during Onigashima raid"
+  ]
+}
+
+Debut and aliases: First appeared in Chapter 23, Episode 8; known as “Sogeking,” “Sniper King,” and “God Usopp.”
+Abilities & weapons: Skilled with a slingshot and versatile ammo; uses Pop Greens and inventive gadgets, including dials and traps.
+Observation Haki: Demonstrated Haki when incapacitating Sugar during Dressrosa.
+Inventive and strategic contributions: Created Nami’s Clima-Tact, repaired the Going Merry, and crafted tools for the crew.

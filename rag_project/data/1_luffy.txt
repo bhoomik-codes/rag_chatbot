@@ -1,0 +1,77 @@
+{
+  "name": "Monkey D. Luffy",
+  "aliases": ["Straw Hat Luffy", "Lucy", "Joy Boy (association)"],
+  "role": "Captain of the Straw Hat Pirates; Emperor (Yonko)",
+  "backstory": {
+    "origin": "Foosha Village, East Blue",
+    "family": {
+      "father": "Monkey D. Dragon",
+      "grandfather": "Monkey D. Garp",
+      "sworn_brothers": ["Portgas D. Ace", "Sabo"],
+      "mentor": "Red-Haired Shanks (gifted straw hat)"
+    }
+  },
+  "physical": {
+    "age": {"debut": 7, "pre_timeskip": 17, "post_timeskip": 19},
+    "height_cm": {"child": 91, "pre-timeskip": 172, "post-timeskip": 174},
+    "weight_kg": 64,
+    "eye_color": "Black",
+    "hair_color": "Black",
+    "distinct_marks": ["Scar under left eye (self-inflicted)", "X-shaped scar on chest (Akainu)"],
+    "attire_changes": [
+      "Red vest, denim shorts (pre-timeskip)",
+      "Red open-cardigan, yellow sash (post-timeskip)",
+      "Disguises (e.g., striped coat with earmuffs on Punk Hazard, sunflower shirt & bowler hat on Dressrosa)" :contentReference[oaicite:1]{index=1}
+    ]
+  },
+  "devil_fruit": {
+    "name_current": "Hito Hito no Mi, Model: Nika",
+    "type": "Mythical Zoan (formerly misclassified as Paramecia)",
+    "abilities": ["Rubber properties", "Cartoon-like elasticity", "Environmental alteration in awakened form (Gear 5)"],
+    "details": "World Government suppressed its true nature; “Nika” granting Sun God attributes" :contentReference[oaicite:2]{index=2}
+  },
+  "powers_and_abilities": {
+    "rubber-based": "Stretching, bouncing, blunt-attack immunity, long-range via stored potential energy" :contentReference[oaicite:3]{index=3},
+    "gear_transformations": ["Gear 2", "Gear 3", "Gear 4 (Boundman, Snakeman, Tankman)", "Gear 5 awakened"] :contentReference[oaicite:4]{index=4},
+    "haki": ["Observation (incl. future sight)", "Armament (incl. advanced Emission & Internal Destruction)", "Conqueror’s (incl. full-body coating)"] :contentReference[oaicite:5]{index=5},
+    "regeneration": "Mid-low; recovers through eating (meat, milk), can regrow tooth" :contentReference[oaicite:6]{index=6},
+    "willpower": "Extreme (can withstand absorbing 100 shadows; survive torture; imagination-based feats)" :contentReference[oaicite:7]{index=7},
+    "resistances": ["Blunt force, fire, electricity, poison (partial), sea water/seastone"], :contentReference[oaicite:8]{index=8}
+    "special_effects": ["Toon-force cartoon distortions", "limited pseudo-flight via Gear forms", "attack reflection (e.g. Kaido’s breath)"] :contentReference[oaicite:9]{index=9}
+  },
+  "signature_moves": [
+    "Gum-Gum Pistol",
+    "Gum-Gum Rocket, Whip, Bazooka, Pinwheel, Stamp, Balloon, Gatling, Elephant Gun, Red Roc, etc.",
+    "Gear-enhanced large-scale moves (as detailed in fandom lists) such as Gum-Gum Snake Man, Gum-Gum Tank Man, Gum-Gum Bounceman",
+    "Gum-Gum Bajarang Gun (most powerful attack yet)"
+  ],
+  "personality": {
+    "traits": ["carefree", "optimistic", "determined", "loyal", "simple but perceptive", "chaotic good"],
+    "values": ["freedom", "adventure", "protecting comrades"],
+    "quotable": "\"I've set myself to become the King of the Pirates... And if I die trying... Then at least I tried!\"" :contentReference[oaicite:11]{index=11}
+  },
+  "dream": "Become the Pirate King to gain ultimate freedom" :contentReference[oaicite:12]{index=12},
+  "status": {
+    "affiliations": ["Straw Hat Pirates (captain)", "Straw Hat Grand Fleet (de facto commodore)", "Worst Generation", "Four Emperors (Yonko)", "Former co-leader of Ninja-Pirate-Mink-Samurai Alliance"] :contentReference[oaicite:13]{index=13},
+    "current_bounty_berries": 3_000_000_000,
+    "bounty_history": [30_000_000, 100_000_000, 300_000_000, 400_000_000, 500_000_000, 1_500_000_000, 3_000_000_000] :contentReference[oaicite:14]{index=14}
+  },
+  "cultural_impact": {
+    "popularity": "Consistently ranks #1 in character polls; highly recognized globally" :contentReference[oaicite:15]{index=15}
+  },
+  "notable_events": [
+    "Defeated major enemies: Crocodile, Doflamingo, Kaido, etc.",
+    "Unleashed Gear 5 against Kaido; liberated Wano; declared Yonko" :contentReference[oaicite:16]{index=16}
+  ]
+}
+
+Most important facts (with sources)
+Luffy's Devil Fruit identity is now described as Hito Hito no Mi, Model: Nika (formerly labeled Gomu Gomu no Mi).
+
+He is the captain of the Straw Hat Pirates and was elevated to Emperor/Yonko status after major events.
+
+He uses Gear transformations plus mastery of all three Haki types as core combat tools.
+
+His core dream is to become the Pirate King (to secure ultimate freedom).
+
+Current widely-reported bounty and global status (Yonko / massive bounty) are listed on the fandom page.

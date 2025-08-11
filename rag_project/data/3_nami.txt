@@ -1,0 +1,77 @@
+{
+  "name": "Nami",
+  "aliases": ["Cat Burglar Nami"],
+  "role": "Navigator of the Straw Hat Pirates",
+  "origin": "Cocoyasi Village, East Blue",
+  "creator": "Eiichiro Oda",
+  "debut": {
+    "manga_chapter": 8,
+    "anime_episode": 1
+  },
+  "age": {
+    "debut": 18,
+    "post_timeskip": 20
+  },
+  "birthday": "July 3",
+  "physical": {
+    "hair_color": "Orange",
+    "eye_color": "Brown",
+    "attire": "Varies by arc; commonly tops or bikini tops with skirts; wears Log Pose on left wrist and a gold bracelet",
+    "tattoo": "Blue (anime) / black (manga) tattoo of a tangerine and pinwheel on left shoulder (replaces Arlong mark)"
+  },
+  "affiliations": ["Straw Hat Pirates", "Straw Hat Grand Fleet", "Former: Arlong Pirates"],
+  "bounty": {
+    "current": 366_000_000,
+    "history": [16_000_000, 66_000_000, 366_000_000]
+  },
+  "dream": "Map the entire world",
+  "skills": {
+    "navigation": "Expert cartographer and navigator; can predict Grand Line weather using mathematical equations and sensory intuition",
+    "meteorology": "Supernatural ability to sense weather shifts; skilled with unpredictable Grand Line climate",
+    "theft": "Skilled pickpocket"
+  },
+  "weapons": [
+    "Clima-Tact",
+    "Sorcery Clima-Tact (upgraded post-timeskip, compact form)"
+  ],
+  "attack_techniques": [
+    "Mirage Tempo",
+    "Cyclone Tempo (Tornado Tempo)",
+    "Thunderbolt Tempo (signature lightning strike)",
+    "Thunder Breed Tempo (area lightning)",
+    "Thunder Lance Tempo (precision lightning spear)",
+    "Raiun Rod (Black Ball lightning whip)",
+    "Gust Sword",
+    "Weather Egg",
+    "Ninpo: Raitei (Zeus–controlled strike)",
+    "Thunder Shark Tempo (Zeus as projectile shark)",
+    "Fog = Tempo",
+    "Rain = Tempo",
+    "Sprinkler",
+    "Heat Ball",
+    "Cool Ball",
+    "Thunder Ball",
+    "Shower = Tempo"
+  ],
+  "personality": {
+    "traits": ["intelligent", "cunning", "money-obsessed", "loyal", "brave when it counts"],
+    "values": ["freedom", "friendship", "protecting her village"]
+  },
+  "background": {
+    "early_life": "Orphaned and adopted by Bellemere; coerced to map for Arlong to save her village",
+    "joining_crew": "Liberated with Luffy’s help, then joined Straw Hat Pirates",
+    "post_timeskip": "Trained on Weatheria to upgrade her weather manipulation skills"
+  },
+  "sources": [
+    "Wikipedia — Nami",
+    "One Piece Fandom — Nami",
+    "One Piece Wiki — Nami/Abilities and Powers",
+    "Gamerant — Evolution of Nami’s Clima-Tact",
+    "Olles.ru — Nami’s Strongest Attacks"
+  ]
+}
+
+Navigation & meteorology skills: Nami’s weather prediction and navigation via mathematical formulation are unmatched and classed as superior even to fish-men capabilities
+Signature attacks: Her most iconic technique is Thunderbolt Tempo, a lightning strike generated via the Clima-Tact
+Clima-Tact evolution: From three-piece steel staff creating hot, cold, and electric bubbles to powerful upgrades via Weatheria tech
+Comprehensive attack list: Numerous techniques like Mirages, Tornadoes, Weather Eggs, and Zeus-based attacks are cataloged in official and fan-produced sources

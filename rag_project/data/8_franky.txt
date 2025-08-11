@@ -1,0 +1,55 @@
+{
+  "name": "Franky (Cutty Flam)",
+  "aliases": ["Cyborg Franky", "Iron Man", "Fra-nosuke"],
+  "role": "Shipwright and Senior Officer of the Straw Hat Pirates",
+  "origin": "South Blue",
+  "debut": {
+    "manga_chapter": 329,
+    "anime_episode": 233,
+    "publication_year": 2004
+  },
+  "age": {
+    "debut": 34,
+    "post_timeskip": 36
+  },
+  "birthday": "March 9",
+  "physical": {
+    "height_cm": {
+      "debut": 225,
+      "post_timeskip": 240
+    },
+    "blood_type": "XF",
+    "attributes": ["cyborg body", "cola-powered internal refrigerator"]
+  },
+  "affiliations": ["Straw Hat Pirates", "Straw Hat Grand Fleet", "Franky Family (former)", "Tom’s Workers (former)"],
+  "bounty": {
+    "history": [44_000_000, 94_000_000, 394_000_000],
+    "current": 394_000_000
+  },
+  "personality": {
+    "traits": ["loud", "exhibitionist", "comedic", "loyal", "brave"],
+    "catchphrase": "SUPER!"
+  },
+  "abilities": {
+    "cyborg_enhancements": ["rocket launchers", "flamethrower (Fresh Fire)", "nail gun (Master Nail)", "laser (Radical Beam)", "air cannon (Coup de Vent)", "extendable arms", "Nipple Lights", "built-in toolbox (hammer/wrench)", "tank-style rolling"],
+    "engineering": ["built Thousand Sunny", "various vehicles (Mini Merry II, Shark Submerge III, etc.)"],
+    "combat": ["superhuman strength and durability", "expert melee with dirty tactics"]
+  },
+  "signature_techniques": [
+    "Franky Destroy Hou (shoulder cannons)",
+    "Franky Fireball (chest-hatch fireball)",
+    "Franky Iron Boxing",
+    "Star Shield",
+    "Coup de Vent",
+    "Franky Radical Beam",
+    "Franky Kentauros (four-leg form)",
+    "Fresh Fire",
+    "Master Nail",
+    "Nipple Light"
+  ],
+  "proven_skills": {
+    "shipbuilding": "Constructed Thousand Sunny using Adam Wood and custom systems like Coup de Burst and Soldier Dock System",
+    "strength": "Overpowered adult elephant, fought on par with Blueno (CP9)",
+    "adaptation": "Survives on cola supply; creative engineering in fan situations"
+  }
+}

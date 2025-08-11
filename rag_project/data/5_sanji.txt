@@ -1,0 +1,78 @@
+{
+  "name": "Vinsmoke Sanji",
+  "aliases": ["Black Leg", "Ero-Cook"],
+  "role": "Cook of the Straw Hat Pirates",
+  "origin": "North Blue (Vinsmoke family, Germa Kingdom)",
+  "creator": "Eiichiro Oda",
+  "debut": {
+    "manga_chapter": 43,
+    "anime_episode": null,
+    "publication_date": "June 8, 1998"
+  },
+  "age": {
+    "debut": 19,
+    "post_timeskip": 21
+  },
+  "birthday": "March 2",
+  "family": {
+    "foster_father": "Zeff",
+    "father": "Vinsmoke Judge",
+    "mother": "Vinsmoke Sora",
+    "siblings": ["Vinsmoke Reiju", "Ichiji", "Niji", "Yonji"]
+  },
+  "physical": {
+    "distinctive_features": ["Blonde hair that shifts from covering left eye (pre-timeskip) to right eye (post-timeskip)", "Swirled eyebrows", "Goatee (post-timeskip)"],
+    "attire": ["Black suit shirt", "Cigarette"],
+    "motivation": "Preserves hands for cooking by using only legs in combat"
+  },
+  "affiliations": ["Straw Hat Pirates", "Baratie (former sous-chef)", "Former: Germa Kingdom (Prince, renounced)", "Ninja-Pirate-Mink-Samurai Alliance"],
+  "bounty": {
+    "history": [77_000_000, 177_000_000, 330_000_000],
+    "current": 1_032_000_000
+  },
+  "personality": {
+    "traits": ["chivalrous", "calm under pressure", "flirtatious", "loyal"],
+    "values": ["protecting women (will not fight them)", "self-sacrifice", "gastronomy"]
+  },
+  "fighting_style": {
+    "name": "Black Leg Style",
+    "description": "Kick-based martial art influenced by Capoeira, Savate, and Taekwondo; uses handstands and agility for power and range",
+    "reason": "Hands are reserved for cooking" :contentReference[oaicite:1]{index=1}
+  },
+  "mobility_techniques": {
+    "Sky Walk": "Kicks air to achieve aerial movement (inspired by Geppo) – high speed and elevation :contentReference[oaicite:2]{index=2}",
+    "Blue Walk": "Underwater variant of Sky Walk, allows him to move underwater at fish-man speeds :contentReference[oaicite:3]{index=3}"
+  },
+  "power_amplifiers": ["Diable Jambe (ignites legs for fiery kicks)", "Armament Haki enhancements", "Ifrit Jambe (blue-white flames post-genetic activation)"] :contentReference[oaicite:4]{index=4},
+  "signature_moves": [
+    "Joue Shoot (flaming kick to face)",
+    "Concassé (spinning aerial heel strike; knocked out Luffy)",
+    "Collier Strike (neck-area kick with fire)",
+    "Flanchet Strike (flaming kick to stomach)",
+    "Poêle à Frire: Spectre (skyward barrage of flaming kicks)",
+    "Bien Cuit: Grill Shot (high-speed back kick leaving grill burn)",
+    "Rotisserie Strike (flaming kick that spins opponent like spit-roasting)",
+    "Hell Memories (recalling painful memories to trigger full-body flames & fiery kick)",
+    "Ifrit Jambe: Collier (enhanced neck kick with blue flames)",
+    "Ifrit Jambe: Bœuf Burst (explosive powerful kick)"
+  ] :contentReference[oaicite:5]{index=5},
+  "notable_events": [
+    "Developed Diable Jambe during Kamabakka training",
+    "Used Blue Walk to navigate Water 7 and Fish-Man Island",
+    "Utilized Hell Memories to defeat Wadatsumi",
+    "Executed Rotisserie Strike against Queen’s Brachiosaurus form",
+    "Deployed Ifrit Jambe techniques in Wano Country"
+  ],
+  "sources": [
+    "Wikipedia — Sanji",
+    "One Piece Wiki — Sanji/Abilities and Powers",
+    "CBR.com — Sanji’s strongest moves",
+    "Gamerant — Sanji’s post-timeskip techniques",
+    "Duniaku.id — Hell Memories description"
+  ]
+}
+
+Black Leg Style: A uniquely lethal, foot-focused martial art developed so his hands remain safe for cooking.
+Sky Walk & Blue Walk: Gravity-defying moves granting aerial and aquatic agility derived from Geppo.
+Diable Jambe & Ifrit Jambe: Key power-boosting leg ignitions; the latter manifests blue-white flames linked to his genetic modifications.
+Signature moves: A richly named arsenal of flame-infused kicks, each unique in flair and effect—ranging from Concassé (KO’d Luffy) to Hell Memories and the fiery Ifrit Jambe: Bœuf Burst.

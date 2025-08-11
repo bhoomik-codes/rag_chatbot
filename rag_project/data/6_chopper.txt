@@ -1,0 +1,70 @@
+{
+  "name": "Tony Tony Chopper",
+  "aliases": ["Cotton Candy Lover", "Chopa-emon"],
+  "role": "Doctor and Senior Officer of the Straw Hat Pirates",
+  "origin": "Drum Island, Grand Line",
+  "creator": "Eiichiro Oda",
+  "debut": {
+    "manga_chapter": 134,
+    "anime_episode": 81,
+    "publication_year": 2000
+  },
+  "age": {
+    "debut": 15,
+    "post_timeskip": 17
+  },
+  "birthday": "December 24 (Christmas Eve)",
+  "physical": {
+    "height": "90 cm (Hybrid Form)",
+    "blood_type": "X",
+    "distinct_features": ["Blue nose", "Reindeer appearance"]
+  },
+  "affiliations": [
+    "Straw Hat Pirates (Doctor)",
+    "Straw Hat Grand Fleet",
+    "Foxy Pirates (temporary)",
+    "Ninja-Pirate-Mink-Samurai Alliance (disbanded)"
+  ],
+  "bounty": {
+    "history": [50, 100, 1000],
+    "current": 1000
+  },
+  "devil_fruit": {
+    "name": "Hito Hito no Mi (Human-Human Fruit)",
+    "type": "Zoan",
+    "abilities": "Allows transformations into multiple forms mixing human and reindeer features"
+  },
+  "forms": [
+    {"name": "Walk Point", "description": "Natural reindeer form—fast movement and travel; ages with him."},
+    {"name": "Brain Point", "description": "Hybrid form with enhanced intellect—used for diagnostics and planning; enables 'Scope' technique."},
+    {"name": "Heavy Point", "description": "Muscular, bulky form—focused on offensive power."},
+    {"name": "Jumping Point", "description": "Slender form ideal for high jumps and evasion (rare post-timeskip)."},
+    {"name": "Arm Point", "description": "Arms massively muscular—used for powerful strikes."},
+    {"name": "Guard Point", "description": "Thick fur form—acts like armor for defense."},
+    {"name": "Horn Point", "description": "Enlarged antlers for offense (shoveling and charging)."},
+    {"name": "Kung Fu Point", "description": "Versatile form combining speed and power, excels in martial arts."},
+    {"name": "Monster Point", "description": "Gigantic beast form with immense power but high life-risk; post-timeskip improved control over this form via Rumble Ball."}
+  ],
+  "techniques": [
+    {"name": "Scope", "description": "Analysis technique in Brain Point to scan weaknesses after Rumble Ball."},
+    {"name": "Roseo Colonnade", "description": "Horn Point attack that impales multiple opponents in a column formation."},
+    {"name": "Super Frapper Gong", "description": "Joint attack with Franky combining heavy hits."},
+    {"name": "Uso-Cho Hammer Suisei", "description": "Combo with Usopp—uses antlers and slingshot to launch hammer attack."}
+  ],
+  "skills": [
+    "Professional medical knowledge: surgery, pharmacology, antidotes",
+    "Can communicate with animals due to Devil Fruit ability"
+  ],
+  "personality": {
+    "traits": ["naïve", "easily flustered by compliments", "caring", "yearns for acceptance"],
+    "values": ["friendship", "healing", "being seen as a 'monster for Luffy' beyond rejection"]
+  },
+  "background": {
+    "early_life": "Rejected by herd due to blue nose and Devil Fruit use; saved by Doctor Hiriluk, then trained by Kureha.",
+    "crew_joining": "Joined Straw Hats after Drum Island arc, inspired to travel to cure any disease."
+  }
+}
+
+Multiple transformation forms—from Walk Point to Monster Point—are cataloged with descriptions.
+The Scope technique and specific attacks like Roseo Colonnade are detailed in fandom and attack-focused sources.
+Abilities including transformations triggered with Rumble Balls, control improvements post-timeskip, and communication with animals are confirmed.
